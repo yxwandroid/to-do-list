@@ -43,7 +43,7 @@
 
 
 
-### React-native
+### react-native
 
     1. 基础框架  
     2. UI 框架
